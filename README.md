@@ -34,15 +34,15 @@ O principal objetivo deste repositório é aplicar os conceitos de POO em Java p
 
 ## 📁 Estrutura
 
-EstudosPOOjava-main/
-└── PooJ/
-├── src/
-│   ├── Aluno.java
-│   ├── Calculadora.java
-│   ├── Carro.java
-│   ├── Main.java
-│   ├── Musica.java
-│   └── Pessoa.java
+### EstudosPOOjava-main/ 
+- └── PooJ/
+- ├── src/
+- │   ├── Aluno.java
+- │   ├── Calculadora.java
+- │   ├── Carro.java
+- │   ├── Main.java
+- │   ├── Musica.java
+- │   └── Pessoa.java
 
 ##👨‍💻 Contato
 
