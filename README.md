@@ -26,8 +26,8 @@ O principal objetivo deste repositório é aplicar os conceitos de POO em Java p
 4. *Exercícios Desenvolvidos*
    - *Aluno.java* — Classe com nome, idade, nota, etc.
    - *Pessoa.java* — Representação básica de uma pessoa com atributos e métodos.
-   - *Carro.java* — Simulação de aceleração, velocidade e freio.
-   - *Musica.java* — Classe com métodos para tocar música e mostrar dados.
+   - *Carro.java* — Imprimir modelo, cor e ano, e método para retornar quantos anos o carro tem.
+   - *Musica.java* — Classe com métodos para calcular a média de avaliações e mostrar dados.
    - *Calculadora.java* — Funções matemáticas básicas organizadas como métodos.
 
 ---
