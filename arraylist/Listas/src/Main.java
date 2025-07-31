@@ -163,7 +163,7 @@ public class Main {
             }
         }
 
-        System.out.println("V3ocê digitou " + numerosPares + " números pares"); */
+        System.out.println("V3ocê digitou " + numerosPares + " números pares");
 
         System.out.println("***************************************");
 
@@ -188,6 +188,23 @@ public class Main {
         listaFinal.addAll(lista1);
         listaFinal.addAll(lista2);
 
-        System.out.println("As duas listas juntas: " + listaFinal);
+        System.out.println("As duas listas juntas: " + listaFinal); */
+
+        System.out.println("**********************************");
+
+        Aluno aluno1 = new Aluno("Bruno", 6);
+        Aluno aluno2 = new Aluno("Julia", 10);
+        Aluno aluno3 = new Aluno("Apollo", 7);
+
+        List<Aluno> alunos = new ArrayList<>();
+        alunos.add(aluno1);
+        alunos.add(aluno2);
+        alunos.add(aluno3);
+
+        for (Aluno a : alunos) {
+            if (a.getNota1() >= 7) {
+                System.out.println(a);
+            }
+        }
     }
 }
